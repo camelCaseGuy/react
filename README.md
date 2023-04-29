@@ -1,3 +1,3 @@
-# react sandbox to learn react
+# react sandbox
 
-##  a more detailed readme could be updated here in the future.
+##  a more detailed readme could be updated here.
