@@ -1,4 +1,4 @@
-# react sandbox to learn react
+# react sandbox
 
 ## How to use
 
