@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Favorite-Notification';
+  src: url('./Favorite-Notification.ttf') format('ttf');
+  font-style: italic;
+  font-size: x-large;
+}
+
+.hello {
+  color: blue;
+  font-family: 'Favorite-Notification', Georgia, 'Times New Roman', Times, serif;
+  background: url('./icon.png');
+}
